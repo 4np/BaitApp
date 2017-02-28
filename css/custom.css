@@ -9,3 +9,11 @@
     text-shadow: 1px 1px black;
     color: tomato;
 }
+
+.affix-top {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.affix-top img {
+    filter: invert();
+}
