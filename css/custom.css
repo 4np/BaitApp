@@ -1,0 +1,11 @@
+/** navigation bar customizations **/
+.navbar-brand>img {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+
+.header-content-inner>h1 {
+    text-shadow: 1px 1px black;
+    color: tomato;
+}
